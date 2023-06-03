@@ -1,7 +1,4 @@
 # Welcome to My GitHub Profile!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwelteringCity&show_icons=true&theme=dark)](https://github.com/SwelteringCity)
-
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly striving to learn and grow as a developer. Here you'll find an overview of my GitHub stats, recent updates, and a unique representation of my contributions using Conway's Game of Life.

@@ -34,7 +34,8 @@ Above, you can see a unique visualization of my GitHub contributions represented
 ## Contact Me
 
 I'm always open to collaboration, feedback, and exciting new projects. Feel free to reach out to me through the following channels:
-Hashnode: [Infatuation with Tech](https://axuro.hashnode.dev/)
+
+**Hashnode**: [Infatuation with Tech](https://axuro.hashnode.dev/)
 <!-- - Email: your-email@example.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/axuro/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->

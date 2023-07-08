@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly strivin
 
 These stats provide an overview of my GitHub activity, including the number of repositories, contributions, followers, and more. It's always exciting to see the progress and the impact of my work!
 
-## Recent Updates
+<!---## Recent Updates
 
 ### Repository Name 1
 
@@ -23,7 +23,7 @@ These stats provide an overview of my GitHub activity, including the number of r
 - Commit 2
 - Commit 3
 
-Feel free to explore my repositories to see the latest updates and projects I've been working on. I strive to keep my codebase clean, maintainable, and up-to-date.
+Feel free to explore my repositories to see the latest updates and projects I've been working on. I strive to keep my codebase clean, maintainable, and up-to-date.--->
 
 ## Contributions as Game of Life
 
@@ -34,9 +34,9 @@ Above, you can see a unique visualization of my GitHub contributions represented
 ## Contact Me
 
 I'm always open to collaboration, feedback, and exciting new projects. Feel free to reach out to me through the following channels:
-
+Hashnode: [Infatuation with Tech](https://axuro.hashnode.dev/)
 <!-- - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/axuro/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 
 Let's connect and create something amazing together!

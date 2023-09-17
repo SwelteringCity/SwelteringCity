@@ -2,12 +2,16 @@
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly striving to learn and grow as a developer. Here you'll find an overview of my GitHub stats, recent updates, and a unique representation of my contributions using Conway's Game of Life.
-
-## GitHub Stats
+<!---[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwelteringCity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
+## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwelteringCity&show_icons=true&theme=dark)
 
 These stats provide an overview of my GitHub activity, including the number of repositories, contributions, followers, and more. It's always exciting to see the progress and the impact of my work!
+
+
+## 🔥 Current Streak:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SwelteringCity&theme=dark)](https://git.io/streak-stats)
 
 <!---## Recent Updates
 

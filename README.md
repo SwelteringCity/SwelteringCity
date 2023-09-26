@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly strivin
 <!---[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwelteringCity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwelteringCity&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwelteringCity&show_icons=true&theme=dark) <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6513175f3dc8db4c64c0fdb8?variant=dark" alt="roadmap.sh"/></a>
 
 These stats provide an overview of my GitHub activity, including the number of repositories, contributions, followers, and more. It's always exciting to see the progress and the impact of my work!
+
 
 
 ## 🔥 Current Streak:
